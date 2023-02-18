@@ -108,6 +108,10 @@ button:focus { outline: none; }
 	position: relative;
 	border-bottom: 10px solid #85cfff;
 }
+@media (max-width: 600px) {
+	.tm-site-name img { max-width: 100%;}
+	.tm-site-description img { max-width: 120%;}
+	}
 
 .tm-main-nav-ul { flex-flow: column; }
 
