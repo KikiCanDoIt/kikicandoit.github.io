@@ -361,8 +361,8 @@ footer a:hover {
     pointer-events: auto;
 }
 .modalDialog > div {
-    width: 900px;
-    position: relative;
+    width:fit-content;
+    position:sticky;
     margin: 10% auto;
     padding: 5px 20px 13px 20px;
     border-radius: 10px;
