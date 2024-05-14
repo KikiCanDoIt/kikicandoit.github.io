@@ -368,3 +368,8 @@ footer a:hover {
     border-radius: 10px;
     background: #ffffff;
 }
+
+.videoEmbed {
+	max-width:50%;
+	max-height:auto;
+}
