@@ -104,6 +104,7 @@ button:focus { outline: none; }
 	background: url('../img/header.png') no-repeat;
 	background-size: cover;
 	height: 300px;
+	max-width:100%;
 	padding: 60px 80px;
 	position: relative;
 	border-bottom: 10px solid #85cfff;
