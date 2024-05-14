@@ -101,7 +101,7 @@ button:focus { outline: none; }
 .tm-site-description { font-size: 1.4rem; }
 
 .tm-site-header {
-	background: url('../img/header.png') no-repeat;
+	background: url('../img/illustrations/kikizilla_big.png') no-repeat;
 	background-size: cover;
 	height: 300px;
 	padding: 60px 80px;
