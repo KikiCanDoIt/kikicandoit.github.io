@@ -370,6 +370,11 @@ footer a:hover {
 }
 
 .videoEmbed {
-	max-width:50%;
+	max-width:49%;
+	max-height:auto;
+}
+
+.gameEmbed {
+	max-width:100%;
 	max-height:auto;
 }
