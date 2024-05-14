@@ -342,9 +342,9 @@ footer a:hover {
 
 .modalDialog{
 	/* display: none; */
-    position: fixed;
+    position: absolute;
     font-family: Arial, Helvetica, sans-serif;
-	margin:auto;
+	margin: 0 auto;
     top: 0;
     /* right: 0;
     bottom: 0;*/
